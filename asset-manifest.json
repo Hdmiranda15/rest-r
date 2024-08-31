@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-build/static/css/main.20505ff5.css",
+    "main.js": "/react-build/static/js/main.a93a781f.js",
+    "static/media/GG-Restaurant.mp4": "/react-build/static/media/GG-Restaurant.337cd4fdf599f8e78562.mp4",
+    "index.html": "/react-build/index.html",
+    "main.20505ff5.css.map": "/react-build/static/css/main.20505ff5.css.map",
+    "main.a93a781f.js.map": "/react-build/static/js/main.a93a781f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20505ff5.css",
+    "static/js/main.a93a781f.js"
+  ]
+}
